@@ -1,0 +1,26 @@
+{
+	"name": "cordyceps-extension-pack",
+	"displayName": "Cordyceps Extension Pack",
+	"description": "Extension pack for internal use at Cordycepts",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"ms-vscode.vscode-typescript-next",
+		"roblox-ts.vscode-roblox-ts",
+		"dbaeumer.vscode-eslint",
+		"oderwat.indent-rainbow",
+		"nightrains.robloxlsp",
+		"vsls-contrib.gistfs",
+		"evaera.vscode-rojo",
+		"eamodio.gitlens"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/cordyceprblx/cordyceps-extension-pack"
+	}
+}
