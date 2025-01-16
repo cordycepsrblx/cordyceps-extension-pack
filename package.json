@@ -3,7 +3,7 @@
 	"displayName": "Cordyceps Extension Pack",
 	"description": "Extension pack for internal use at Cordycepts",
 	"publisher": "cordycepsrblx",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.22.0"
 	},
@@ -11,6 +11,7 @@
 		"Extension Packs"
 	],
 	"extensionPack": [
+		"github.vscode-pull-request-github",
 		"ms-vscode.vscode-typescript-next",
 		"roblox-ts.vscode-roblox-ts",
 		"dbaeumer.vscode-eslint",
