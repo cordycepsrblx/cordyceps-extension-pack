@@ -2,6 +2,7 @@
 	"name": "cordyceps-extension-pack",
 	"displayName": "Cordyceps Extension Pack",
 	"description": "Extension pack for internal use at Cordycepts",
+	"publisher": "cordycepsrblx",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.22.0"
@@ -21,6 +22,6 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/cordyceprblx/cordyceps-extension-pack"
+		"url": "https://github.com/cordycepsrblx/cordyceps-extension-pack"
 	}
 }
